@@ -125,6 +125,12 @@ a:focus {
   min-height: 100%;
 }
 
+/* about page/video */
+.video-container {
+  display: flex;
+  justify-content: center;
+}
+
 .sub_page .hero_area {
   min-height: auto;
   background: linear-gradient(130deg, #231a6f, #0f054c);
